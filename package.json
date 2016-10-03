@@ -25,7 +25,8 @@
   },
   "dependencies": {
     "async": "^2.0.1",
-    "ioredis": "^2.0.0"
+    "ioredis": "^2.0.0",
+    "uuid": "^2.0.3"
   },
   "devDependencies": {
     "mocha": "latest",
